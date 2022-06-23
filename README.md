@@ -90,7 +90,7 @@
 }
 
 ### About using api or Deployed link:-
-I have created a get api and a post api for users. I have crated models also but theres a slight diffrence in my Schema for users. In the problem statement "_id" is given and i just replaced it by "id" because as MongoDB will create  "_id" named variable for every document and its value will be unique for every document.
+I have created a get api and a post api for users. I have created models also but theres a slight diffrence in my Schema for users. In the problem statement "_id" is given and i just replaced it by "id" because as MongoDB will create  "_id" named variable for every document and its value will be unique for every document.
 
 For using this code you have to just clone the Repo and in terminal you have to give command "npm install". After installing you can run a command of "npm start", which wil start the server. if you open the browser and want to see whats the response this code will give, you have to run the localhost on the given port(it will reflect at terminal). For post you just have to open Postman and you can post any document but the document should be according to given Schema.
 
