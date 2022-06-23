@@ -94,4 +94,4 @@ I have created a get api and a post api for users. I have created models also bu
 
 For using this code you have to just clone the Repo and in terminal you have to give command "npm install". After installing you can run a command of "npm start", which wil start the server. if you open the browser and want to see whats the response this code will give, you have to run the localhost on the given port(it will reflect at terminal). For post you just have to open Postman and you can post any document but the document should be according to given Schema.
 
-## Deployed link :- <a href="www.google.com" target="_blank">google</a>
+## Deployed link :- <a href="https://letsendorsee.herokuapp.com/users" target="_blank">Link</a>
